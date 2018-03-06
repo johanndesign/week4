@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Abril+Fatface');
+body {
+    background: linear-gradient( rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), 
+    
+        
+    url(https://images.pexels.com/photos/373912/pexels-photo-373912.jpeg?w=940&h=650&dpr=2&auto=compress&cs=tinysrgb);
+    background-size: cover;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+header {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    text-align: content:
+}
+
+h1 {
+    text-transform: uppercase
+margin: 0;
+    font-size: 5rem;
+    white-space: nowrap;
+}
+
+p {
+    text-align: center;
+    font-size: 20px;
+}
